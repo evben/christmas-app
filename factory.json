@@ -1,0 +1,101 @@
+{
+  "temperature": 70,
+  "current_toy": 3,
+  "toys": [
+    {
+      "name": "Teddy Bear",
+      "type": "Plush",
+      "price": 10.99
+    },
+    {
+      "name": "Lego Set",
+      "type": "Building",
+      "price": 29.99
+    },
+    {
+      "name": "Toy Car",
+      "type": "Vehicle",
+      "price": 9.99
+    },
+    {
+      "name": "Doll House",
+      "type": "Playset",
+      "price": 49.99
+    },
+    {
+      "name": "Play Kitchen",
+      "type": "Playset",
+      "price": 79.99
+    },
+    {
+      "name": "Train Set",
+      "type": "Toy",
+      "price": 19.99
+    },
+    {
+      "name": "Action Figure",
+      "type": "Toy",
+      "price": 14.99
+    },
+    {
+      "name": "Puzzle",
+      "type": "Game",
+      "price": 9.99
+    },
+    {
+      "name": "Remote Control Plane",
+      "type": "Vehicle",
+      "price": 49.99
+    },
+    {
+      "name": "Remote Control Car",
+      "type": "Vehicle",
+      "price": 29.99
+    },
+    {
+      "name": "Baby Doll",
+      "type": "Toy",
+      "price": 12.99
+    },
+    {
+      "name": "Toy Boat",
+      "type": "Vehicle",
+      "price": 19.99
+    },
+    {
+      "name": "Toy Robot",
+      "type": "Toy",
+      "price": 19.99
+    },
+    {
+      "name": "Board Game",
+      "type": "Game",
+      "price": 24.99
+    },
+    {
+      "name": "Building Blocks",
+      "type": "Building",
+      "price": 14.99
+    },
+    {
+      "name": "Play Dough",
+      "type": "Art Supplies",
+      "price": 6.99
+    },
+    {
+      "name": "Slinky",
+      "type": "Toy",
+      "price": 5.99
+    },
+    {
+      "name": "Yo-Yo",
+      "type": "Toy",
+      "price": 4.99
+    },
+    {
+      "name": "Rubik's Cube",
+      "type": "Game",
+      "price": 9.99
+    }
+  ]
+}
